@@ -1,0 +1,21 @@
+{
+  "name": "Видавництво «Атена»",
+  "short_name": "Атена",
+  "description": "Інтелектуальний книжковий консультант Атена",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#24377c",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/3Jks5tzf/Gemini-Generated-Image-imn2oyimn2oyimn2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/3Jks5tzf/Gemini-Generated-Image-imn2oyimn2oyimn2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
